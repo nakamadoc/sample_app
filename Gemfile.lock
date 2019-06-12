@@ -44,6 +44,7 @@ GEM
     autoprefixer-rails (9.5.1.1)
       execjs
     bcrypt (3.1.12)
+    benchmark-ips (2.7.2)
     bindex (0.7.0)
     bootstrap-sass (3.3.7)
       autoprefixer-rails (>= 5.2.1)
@@ -403,6 +404,7 @@ PLATFORMS
 
 DEPENDENCIES
   bcrypt (= 3.1.12)
+  benchmark-ips
   bootstrap-sass (= 3.3.7)
   bootstrap-will_paginate (= 1.0.0)
   byebug (= 9.0.6)
